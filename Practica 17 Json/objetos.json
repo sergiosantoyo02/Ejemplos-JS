@@ -1,0 +1,25 @@
+{
+    "peliculas":
+    {
+        "Terror":
+        [
+            "Feast","Conjuring","Chucky","Jason"
+        ],
+        "Documentales":
+        [
+            "Cosmos","La Tierra", "Inside Job"
+        ]
+
+    },
+    "canciones":
+    {
+        "Rock":
+        [
+            "Ingrata", "El Ansioso", "El Golpazo"
+        ],
+        "Electronica":
+        [
+            "In Out of Love","Minak"
+        ]
+    }
+}
